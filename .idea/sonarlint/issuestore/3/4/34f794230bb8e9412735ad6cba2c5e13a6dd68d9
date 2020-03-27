@@ -1,0 +1,13 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ÀíØã‘.
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8ÀíØã‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äÜõ›8ÀíØã‘.
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¿íØã‘.
+I
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ÀíØã‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›¤ÌØıÿÿÿÿ8ÀíØã‘.
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ÀíØã‘.

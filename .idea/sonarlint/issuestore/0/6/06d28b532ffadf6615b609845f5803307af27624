@@ -1,0 +1,13 @@
+
+d
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¹šş™8Á»öã‘.
+d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ò‰ã8Á»öã‘.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Á»öã‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ª¼²8Á»öã‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8Á»öã‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©¤·«úÿÿÿÿ8Á»öã‘.
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ëÆÈç8Á»öã‘.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¾¨û88Á»öã‘.

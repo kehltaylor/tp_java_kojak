@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8™˜êã‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸ˆŠŒ8™˜êã‘.
+O
+java:S1128"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ8™˜êã‘.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(¾Òïüÿÿÿÿ8™˜êã‘.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬šìã‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ú‡8™˜êã‘.
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ëÆÈç8™˜êã‘.

@@ -1,0 +1,12 @@
+
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°¸שע‎ÿÿÿÿ8קהוד‘.
+E
+java:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8קהוד‘.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ׁכֵ8קהוד‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ַּן¬ûÿÿÿÿ8קהוד‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×¼²8קהוד‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ןש¯¯ûÿÿÿÿ8קהוד‘.
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(כֶָח8קהוד‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’ׁÜ־8קהוד‘.

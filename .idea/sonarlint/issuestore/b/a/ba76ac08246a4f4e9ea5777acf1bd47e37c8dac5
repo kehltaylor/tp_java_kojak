@@ -1,0 +1,21 @@
+
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´œÛã‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8´œÛã‘.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›óÚøÿÿÿÿ8´œÛã‘.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½ÑÆä‘.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8´œÛã‘.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8´œÛã‘.
+
+java:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ï½µ 8—³“ä‘.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8´œÛã‘.
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÒ÷şÿÿÿÿ8´œÛã‘.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8´œÛã‘.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ŞøÑä‘.
+i
+java:S2095I"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¡±ˆÕûÿÿÿÿ8´œÛã‘.
+T	java:S106K"9Replace this use of System.out or System.err by a logger.(¾¨û88´œÛã‘.
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡ò§8´œÛã‘.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8´œÛã‘.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ú‡8´œÛã‘.
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8©®Øä‘.
